@@ -1,0 +1,17 @@
+name = "Fluctuations_Spectrum"
+uuid = "019931a8-2a46-4177-80c8-6686ff9db6a7"
+authors = ["Jose Moran <jrmoran1993@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Distributed = "8ba89e20-285c-5b6f-9357-94700520ee1b"
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+FFTW = "7a1cc6ca-52ef-59f5-83cd-3a7055c09341"
+FileIO = "5789e2e9-d7fb-5bc7-8068-2c6fae9b9549"
+FourierAnalysis = "e7e9c730-dc46-11e9-3633-f1ab55cc17e1"
+Graphs = "86223c79-3864-5bf0-83f7-82e725a168b6"
+JLD2 = "033835bb-8acc-5ee8-8aae-3f567f8a3819"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
